@@ -4,7 +4,7 @@ const Contact = () => {
   useEffect(() => {
     document.title = "CONACT";
   });
-  return <div>Contact</div>;
+  return <div>test Contact</div>;
 };
 
 export default Contact;
