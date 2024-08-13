@@ -8,7 +8,7 @@ import Question6 from "./Component/Question6";
 import Question7 from "./Component/Question7";
 import Question8 from "./Component/damage";
 import Question9 from "./Component/Question9";
-import Question10 from "./Component/Question10";
+import Question10 from "./Component/Question10";//this is best question.
 import Question11 from "./Component/Question11";
 import Question12 from "./Component/Question12";
 import Question13 from "./Component/Question13";
@@ -40,7 +40,7 @@ const App = () => {
   return (
     <div>
       {/* <Question1 /> */}
-      {/* <Question2 /> */}
+      <Question2 />
       {/* <Question3 /> */}
       {/* <Question4 /> */}
       {/* <Question5 /> */}
@@ -79,7 +79,7 @@ const App = () => {
       {/* <Question27 /> */}
       {/* <Question28 /> */}
       {/* <Question29 /> */}
-      <Question30 />
+      {/* <Question30 /> */}
     </div>
   );
 };
